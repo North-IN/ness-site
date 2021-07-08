@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -216,7 +217,8 @@ svg path{
     height: 100vh;
 }
 .container{
-    font-family: "Yellowtail",cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
 }
 .container #col-1{
     text-align: center;

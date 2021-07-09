@@ -10,6 +10,7 @@ body{
     align-content: center;
     align-items: center;
     margin: 0;
+    overflow-x: hidden;
     background-image: linear-gradient(to bottom, #feb2f1, #f7aaf1, #f0a2f2, #e79bf3, #de94f5, #d398f9, #c89cfd, #bc9fff, #b0abff, #a7b6ff, #a4c0ff, #a5c8fc);
 }
 ul {
